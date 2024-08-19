@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    display: block;
+}
+body{
+    background-color: pink;
+    font-family: "Noto Sans", sans-serif, 'Courier New', Courier, monospace;
+}
+div ul li:last-child{
+    background-color: blueviolet;
+}
+.klein{
+    position: absolute;
+    left: 350px;
+}
+.seb{
+    margin-bottom: 30px;
+}
+p{
+    color: darkorchid;
+}
